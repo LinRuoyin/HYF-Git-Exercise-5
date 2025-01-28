@@ -1,2 +1,4 @@
 China
 Denmark
+UK
+Germany
